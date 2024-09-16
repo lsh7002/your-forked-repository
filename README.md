@@ -8,4 +8,4 @@ I found this article really interesting because it talks about OpenAI's new mode
 
 ## Additional Commentary
 
-The power of AI technology never fails to amaze me. With people working around the clock to achieve autonomous AI technology, I have no doubt that it will be reached in the near future. As the systems become more complex, the energy consumption and environmental impact increase as well. The current AI boom has led to a deficit in our energy grid. I am interested to see how the government and energy companies will adjust for AI. - Lindsey Hirano
+The power of AI technology never fails to amaze me. With people working around the clock to achieve autonomous AI technology, I have no doubt that it will be reached in the near future. As the systems become more complex, the energy consumption and environmental impact increase as well. The current AI boom has led to a deficit in our energy grid. I am interested to see how the government and energy companies will adjust for AI. - Lindsey Hirano 
