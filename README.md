@@ -7,11 +7,5 @@
 I found this article really interesting because it talks about OpenAI's new model, **o1**, which addresses the infamous 'Strawberry' problem in AI. This problem highlights how earlier models, like GPT-4, would mess up really simple things, such as incorrectly stating that "strawberry" has only two 'r's (instead of three) due to relying too much on pattern recognition rather than true understanding. What makes **o1** stand out is its use of reinforcement learning and a "chain of thought" process which allows it to reason through problems step by step, similar to how we do. This helps the model solve complex math puzzles and coding challenges with much better accuracy—**o1** scored **83%** on the International Mathematics Olympiad qualifying exams, a significant jump from GPT-4's **13%**. Although it's more expensive and slower than previous models, **o1** represents a big step toward AI systems that can reason more like humans. It could have a major impact on creating autonomous AI agents capable of solving complex problems in fields like medicine and engineering. I'm intrigued to see where this leads, especially with the **Devin.ai** team having contributed to **o1** and many fears/concerns about AI replacing software engineering jobs down the line.
 
 ## Additional Commentary
-<<<<<<< HEAD
-=======
-
-The power of AI technology never fails to amaze me. With people working around the clock to achieve autonomous AI technology, I have no doubt that it will be reached in the near future. As the systems become more complex, the energy consumption and environmental impact increase as well. The current AI boom has led to a deficit in our energy grid. I am interested to see how the government and energy companies will adjust for AI. - Lindsey Hirano
-
->>>>>>> 7bfa633094c18d9d145998259e46eade72b75e67
 
 The power of AI technology never fails to amaze me. With people working around the clock to achieve autonomous AI technology, I have no doubt that it will be reached in the near future. As the systems become more complex, the energy consumption and environmental impact increase as well. The current AI boom has led to a deficit in our energy grid. I am interested to see how the government and energy companies will adjust for AI. - Lindsey Hirano
